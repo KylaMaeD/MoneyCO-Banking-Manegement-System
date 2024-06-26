@@ -1,8 +1,5 @@
 # MONEYCO BANK MANAGEMENT SYSTEM
 
-MoneyCo Bank Management System is a comprehensive software application
-designed to simplify the process of using and managing a banking system.
-
 The MoneyCo Banking Management System is a software application designed to
 optimize user transactions and the Bank's administration. With this program, users can
 deposit, withdraw, and transfer money just as they would at a real bank. This system
